@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hi !',
-    introDesc: `Hôm qua có ánh chiều tà
-    Ngồi bên đồi núi bồi hồi nhớ em`,
-    btnIntro: 'Next',
-    title: 'Phải chăng em vẫn cho anh một cơ hội',
+    introTitle: 'Hi nhok !',
+    introDesc: `Anh giống như hoàng hôn vậy 
+    phải chiều mới có được anh`,
+    btnIntro: 'Nhấn',
+    title: 'Phải chăng anh vẫn đợi em',
     desc: 'Phải chăng em vẫn chờ anh',
     btnYes: 'Thích anh 🥰',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 9 tỉ người mà sao em lại yêu anh <3',
+    question:'Cho em một vé dạo chơi trong tim anh ',
     btnReply: 'Next',
-    reply: 'Vì em là ',
-    mess: 'Anh biết mà. Yêu em nhiù nhìu',
-    messDesc: 'Lo học mà thi thiệt tốt đi nha',
+    reply: 'Tim này là của em mà ',
+    mess: 'IU IU',
+    messDesc: 'Ghét anh nhìu lắm',
     btnAccept: 'Okeee lun',
-    messLink: 'https://www.facebook.com/messages/t/100004968302920' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: '' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
