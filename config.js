@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hi nhok !',
+    introTitle: 'Hi NHOK !',
     introDesc: `Anh giống như hoàng hôn vậy 
     phải chiều mới có được anh`,
     btnIntro: 'Nhấn',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'IU IU',
     messDesc: 'Ghét anh nhìu lắm',
     btnAccept: 'Okeee lun',
-    messLink: '' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/BaoLongLoongBoong/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
