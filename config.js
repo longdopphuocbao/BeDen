@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'IU IU',
     messDesc: 'Em yêu anh Cún nhìu lắm lắm 🥰🥰🥰 ',
     btnAccept: 'Okeee lun',
-    messLink: 'https://www.facebook.com/BaoLongLoongBoong/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/stories/1682423722141214/?source=story_tray' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
