@@ -4,7 +4,7 @@ const CONFIG = {
     phải chiều mới có được em`,
     btnIntro: 'Nhấn vào đây',
     title: 'Em ơi gió lạnh cận kề',
-    desc: 'Nơi bình yên nhất là về tim anh',
+    desc: 'Nơi bình yên nhất là về tim anh 🥰🥰🥰',
     btnYes: 'Thích anh 🥰',
     btnNo: 'Không, Ghét anh :3',
     question:'Bé Dén đồng ý làm ngời yêu anh nhé 😘😘😘😘 ',
